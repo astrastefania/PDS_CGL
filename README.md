@@ -9,7 +9,8 @@ Indirizzo email astrastefania@gmail.com
 **Python & PyCon**  
 Python https://www.python.org  
 Python (comunità italiana) http://python.it  
-PyCon Italia 2023 https://pycon.it/it   
+PyCon Italia 2023 (25-28 maggio 2023) https://pycon.it/it   
+PyCon Italia 2023 - Beninners Day (gratuito) https://pycon.it/en/event/beginners-day  
 
 **Data Science & tools**  
 NumFOCUS https://numfocus.org  
