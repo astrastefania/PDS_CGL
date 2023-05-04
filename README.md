@@ -1,6 +1,8 @@
 # Introduzione a Python e Data Science al corso Gnu/Linux
 https://linux.studenti.polito.it/wp/corso-gnu-linux-avanzato-primavera-2023
 
+*"Il successo è la capacità di passare da un fallimento all'altro senza perdere l'entusiasmo." Winston Churchil*
+
 **Stefania Delprete**  
 LinkedIn https://www.linkedin.com/in/astrastefania   
 Twitter https://twitter.com/astrastefania  
@@ -29,3 +31,7 @@ Corso introduttivo https://altruismoefficace.it/corso_introduttivo *scrivetemi v
 Contatti social (YouTube, Instagram, Linkedin, Twitter) https://altruismoefficace.it/contatti  
 
 Alla grande!
+
+**Interventi passati al corso base**  
+Introduzione all'altruismo efficace (2022) https://linux.studenti.polito.it/wp/sesta-lezione-corso-gnu-linux-base-2022  
+Data science e comunità open source (2021) https://linux.studenti.polito.it/wp/sesta-lezione-corso-gnu-linux-base-2021  
